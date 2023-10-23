@@ -1,0 +1,111 @@
+{
+  "name": "Serizawa-Md Developpé pa Crazy237",
+  "description": "Projet de bot Whatsapp muti-device et muti-fonctionnel\n\t if Any Problem : https://chat.whatsapp.com/LmbPuR6u0P98vcXL5bfeSQ",
+  "logo": "https://telegra.ph/file/e28bc04da8e18ad26b67a.jpg",
+  "keywords": ["whatsappbot", "serizawabot", "Serizawa Md Wa Bot", "Serizawa-Md", "SerizawaMdWaBot", "SerizawaMd","Serizawa","Serizawa bot Whatsapp","multi device"],
+  "success_url": "/",
+  "stack": "container",
+"env": {
+  "OWNER_NAME": {
+    "description": "໒ཞศƶƴ_♇ཞརས໒ཛ👑",    
+    "value": "Crazy237",
+    "required" :true
+  }, 
+  "HEROKU_API_KEY": {
+    "description": "Veuillez entrer votre HEROKU_API_KEY",
+    "value": "",
+	  "required" :true 
+  },   
+  "HEROKU_APP_NAME": {
+    "description": "Nom du HEROKU_APP_NAME",
+    "value": "",
+	 "required" :false
+  },
+  "LEVEL_UP_MESSAGE": {
+    "description": "Entre un message si tu veux que le Bot envoie le Level up message dans le groupe.",
+    "required" :false,
+    "value": "true"
+  }, 
+  "WAPRESENCE": {
+    "description": "Entrez une valeur: 'unavailable'(deconnecté) | 'available'(en ligne) | 'composing'(Entrain d'ecrire) | 'recording'(enregistrement) | 'paused'(R.A.S) ",
+    "required" :false,
+    "value": "unavailable"
+  },
+  "AUTO_READ_STATUS": {
+    "description": "Entre la valeur true si tu veux visionner les statuts automatiquement.",
+    "required" :false,
+    "value": "true"
+  }, 
+  "MSGS_IN_LOG": {
+    "description": "Entre la valeur true si tu veux voir les messages en consoles.",
+    "required" :false,
+    "value": "false"
+  },
+  "READ_MESSAGE": {
+    "description": "Entre la valeur true si tu veux que le bot lise tes messages.",
+    "required" :false,
+    "value": "false"
+  },
+  "DISABLE_PM": {
+    "description": "Désactive le bot dm, met false si tu veux activer ton bot en dm",
+    "value": "false",
+    "required" :false
+  },
+  "ALWAYS_ONLINE": {
+    "description": "Mets true si tu veux etre toujours en ligne",
+    "value": "false",
+    "required" :false
+  },
+  "PREFIX": {
+    "description": "Entrez le prefixe du bot à utiliser.",
+    "value": "."
+  },
+  "OWNER_NUMBER": {
+    "description": "Le numero de celui qui sera admin du bot (dans le format international sans le + et séparé par des virgules \",\")",
+    "value": "237694268225"
+  },
+   "SESSION_ID": {
+    "description": "Veuillez entrer votre SESSION_ID, si tu n'as pas cliques ici\nhttps://replit.com/@SuhailTechInfo/Secktor-Bot"
+  },
+  "OPENAI_API_KEY": {
+    "description": "Veuillez entrer votrer OPENAI_API_KEY de beta.openai.com ",
+    "value": "",
+    "required" :false
+  }, 
+  "REMOVE_BG_KEY": {
+    "description": "Veuillez entrer votre REMOVE BG KEY ici.Obtiens le sur removeBg.com ",
+    "value": "",
+    "required" :false
+  },
+  "MONGODB_URI": {
+    "description": "Entrez votre Mongodb key. c'est une clé secrte de Mongodb Connection.(Required)",
+    "value": ""
+  },
+  "MODE": {
+    "description": "Usage du bot. Utilise public ou private,Si c'est private vous seul pourez utiliser le bot. Si public tout le mone pourra utiliser.",
+    "value": "private"
+  },
+  "AUTO_REACTION": {
+    "description": "Options disponibles : cmd(reagis slmt auc cmds) | all (tous les emojis) | true (facial + coeur emojis)    ",
+    "value": "false",
+    "required": false 
+  },
+  "PACK_NAME": {
+    "description": "Entrez le Sticker Pack_Name.",
+    "value": "Serizawa-Md;CRAZY237",
+    "required": false 
+  },
+  "PACK_AUTHER": {
+    "description": "Entrez le Sticker Author_Name.",
+    "value": "Serizawa-Md;CRAZY237",
+    "required": false 
+  }
+},
+
+"addons": [
+		{
+			"plan": "heroku-postgresql"
+		}
+	]
+ 
+}
