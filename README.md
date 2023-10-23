@@ -28,6 +28,13 @@
 [![GitHub license](https://img.shields.io/github/license/crazy237/Serizawa-Md?color=brightgreen)](https://github.com/crazy237/Serizawa-Md/blob/main/LICENSE)
 [![Visits Badge](https://badges.pufler.dev/visits/crazy237/Serizawa-Md)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/crazy237/Serizawa-Md)](https://badges.pufler.dev)
+
+#### FORK
+[`FORK`](https://github.com/Crazy237/Serizawa-Md/fork) et mets une `Etoile ⭐ Favoris` pour déployer plutard.***
+
+#### QR CODE
+***Obtenir la [`SESSION ID 1`](https://replit.com/@SuhailTechInfo/Suhail-Md?v=1), [`SESSION ID 2`](https://replit.com/@SuhailTechInfo/Secktor-Bot?v=1) en scannant le QR Code `Go-to Whatapp>Three dots>Linked Devices`***
+
     
 <span style="color=orange;">**⚠️ Warning**</span>
 >
@@ -36,9 +43,11 @@
 >Il s'agit d'un logiciel indépendant et non officiel. Utilisez-le à vos propres risques.
 
 ## Déployer sur Heroku
-- si vous ne disposez pas de compte heroku cliquez [**ici**](https://id.heroku.com/login)
-- cliquez [**ici**](https://dashboard.heroku.com/new?template=https://github.com/crazy237/Serizawa-Md) pour déployer le bot **heroku**
-
+si vous ne disposez pas de compte heroku cliquez [**ici**](https://id.heroku.com/login)
+ Completez ce lien par le lien de votre Repository Fourché... 
+```
+https://dashboard.heroku.com/new?template=
+```
 ---
 <details>
 <summary>Déployer sur Replit</summary>
@@ -89,6 +98,15 @@ npm start
 software and other kinds of works...
 </code></p>
 </details>
+##
+
+
+***Utilise cette MongoDb Key Publique, Si tu n'en a pas.!***
+```
+mongodb+srv://Suhail_Md:Suhail_Md@cluster1.0tlyzhm.mongodb.net/?retryWrites=true&w=majority
+```
+Obtiens le Mongodb_URI via [`Site Mongodb`](https://www.mongodb.com/) | Regarde le tutoriel [`Obtenir un Mongodb_URI`](https://youtu.be/6rnftFl0fAI).***
+
 
 #### ```VUES DU PROFIL 🗨️```
 ![Visitor Count](https://profile-counter.glitch.me/crazy237/count.svg)
