@@ -1,0 +1,63 @@
+{
+"_JSON_": true,
+"AUTHOR": "Crazy237",
+"theme": "Infinity",
+"LANGUAGE": "English",
+"LANGCODE": "en",
+"STRINGS": {    
+"updater": {   
+"UPDATE": "Le bot est désormais à jour !",
+"NEW_UPDATE": "De nouvelles lises à jour sont disponibles !\n\n*Changes:*\n",
+"UPDATED_LOCAL": "Mises à jour installées!"
+}, 
+"global": {
+"botName": "Serizawa", 
+  
+"body": "Damso!",
+"greet2" : "Hey Damso",
+"pic1": "https://telegra.ph/file/fb6fb24558fcadcfad392.jpg",
+"pic2": "https://telegra.ph/file/fb6fb24558fcadcfad392.jpg",
+"pic3": "https://telegra.ph/file/fb6fb24558fcadcfad392.jpg",
+"pic4": "https://telegra.ph/file/fb6fb24558fcadcfad392.jpg",
+"pic5": "https://telegra.ph/file/fb6fb24558fcadcfad392.jpg",
+"pic6": "https://telegra.ph/file/fb6fb24558fcadcfad392.jpg",
+"gif1": "https://telegra.ph/file/d442c9a59fe8fccc63c03.mp4",
+"gif2": "https://telegra.ph/file/d442c9a59fe8fccc63c03.mp4",
+"gif3": "https://telegra.ph/file/d442c9a59fe8fccc63c03.mp4",
+"gif4": "https://telegra.ph/file/d442c9a59fe8fccc63c03.mp4",
+"gif5": "https://telegra.ph/file/d442c9a59fe8fccc63c03.mp4",
+"gif6": "https://telegra.ph/file/d442c9a59fe8fccc63c03.mp4",
+"gif7": "https://telegra.ph/file/d442c9a59fe8fccc63c03.mp4",
+"greet" : "Damso", 
+"dotbody" : "Retourné...",
+"promote": "Nouvel admin nommé ! {mention}",
+"pmallow": "Salut, moi c'est ໒ཞศƶƴ_♇ཞརས໒ཛ👑\n*Occupé actuellement .\nVeuillez laisser un message.\n\n_Je lui informera de votre part......A+_",
+"pmblock": "❌ Bloqué*\n\n Tu as été bloqué pour spamming.\n\n _𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐏𝐄 𝐏𝐀𝐑 𝐂𝐑𝐀𝐙𝐘𝟐𝟑𝟕*_",
+"pmwarn": "✋salut* \nStp arrêtes de spammer ou je te bloquerais automatiquement. You have ${checkPermit.times} warning(s).\n\n Rejoins le groupe Support : \nhttps://chat.whatsapp.com/LmbPuR6u0P98vcXL5bfeSQ\n\n *_𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐏𝐄 𝐏𝐀𝐑 𝐂𝐑𝐀𝐙𝐘𝟐𝟑𝟕_*",
+"permited": "Salut ${tname} mbro*\n\nDésormais tu es autorisé à dm.\n\n_𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐏𝐄 𝐏𝐀𝐑 𝐂𝐑𝐀𝐙𝐘𝟐𝟑𝟕",
+"revoked" : "Hii ${tname} Sir\n\nTu es interdit de dm mon numéro.\n\n𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐏𝐄 𝐏𝐀𝐑 𝐂𝐑𝐀𝐙𝐘𝟐𝟑𝟕",
+"demote": "Admin révoqué!",
+"antlink": "Lien Détecté.\n*Au-revoir comrade*",
+"session": "\n*Ceci est ta session.sam.json,garde le à l'egard des regards indiscrets*\n_Maintenant Upload ce fichier json sur ta fourche du bot_\n Connecte ton Github à Heroku er Déploie en modifiant les settings vars et le bot est activé\n\n*𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐏𝐄 𝐏𝐀𝐑 𝐂𝐑𝐀𝐙𝐘𝟐𝟑𝟕*",
+"mention": " Mentionnez un membre",
+"title": "Crazy",
+"footer": "Intégrez le Group CRAZY237 Support \n https://chat.whatsapp.com/LmbPuR6u0P98vcXL5bfeSQ",
+"by": "Made by: CitelVoid",
+"chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+"success": "Success ✓",
+"dot": "Hello Pal,I'm almost near about No One.\n Pourquoi ne pas essayer la cmd -help",
+"couple_male": "I'm sorry i didn't understand for so long",
+"couple_female": "Put everything in your soulders",
+"admin": "Commande réservée uniquement aux admins⚠️!",
+"botAdmin": "Nommez moi admin pour utiliser cette fonctionnalité❗",
+"owner": "Cette commande est réservée à ໒ཞศƶƴ_♇ཞརས໒ཛ👑 ⚠️",
+"group": "Cette fonctionnalité est uniquement pour les groupes ❗",
+"private": "Fonctionnalité disponible en dm uniquement.⚠️",
+"bot": "Cette commande est uniquement pour le bot.⚠️",
+"wait": "*Patientez SVP !!!* ✅"
+},
+"error": {
+"text": "Tâche terminée !"
+}
+}
+}
