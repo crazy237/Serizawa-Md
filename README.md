@@ -29,10 +29,10 @@
 [![Updated Badge](https://badges.pufler.dev/updated/crazy237/Serizawa-Md)](https://badges.pufler.dev)
 
 #### FORK
-[`FORK`](https://github.com/Crazy237/Serizawa-Md/fork) et mets une `Etoile ⭐ Favoris` pour déployer plutard.***
+[`FORK`](https://github.com/Crazy237/Serizawa-Md/fork) et mets une `Etoile ⭐ Favoris` pour déployer plutard.
 
 #### QR CODE
-***Obtenir la [`SESSION ID 1`](https://replit.com/@SuhailTechInfo/Suhail-Md?v=1), [`SESSION ID 2`](https://replit.com/@SuhailTechInfo/Secktor-Bot?v=1) en scannant le QR Code `Go-to Whatapp>Three dots>Linked Devices`***
+***Obtenir la [`SESSION ID 1`](https://replit.com/@SuhailTechInfo/Suhail-Md?v=1), [`SESSION ID 2`](https://replit.com/@SuhailTechInfo/Secktor-Bot?v=1) en scannant le QR Code `Aller sur WhatsApp>3 points>Appareils connectés`***
 
     
 <span style="color=orange;">**⚠️ Warning**</span>
@@ -42,8 +42,11 @@
 >Il s'agit d'un logiciel indépendant et non officiel. Utilisez-le à vos propres risques.
 
 ## Déployer sur Heroku
-si vous ne disposez pas de compte heroku cliquez [**ici**](https://id.heroku.com/login)
+ Si vous ne disposez pas de compte heroku cliquez [**ici**](https://id.heroku.com/login)
+<p>
  Completez ce lien par le lien de votre Repository Fourché... 
+</p>
+
 ```
 https://dashboard.heroku.com/new?template=
 ```
@@ -87,24 +90,24 @@ npm start
 <p dir="auto">Serizawa-Md est sous licence  GPL-3.</p>
 
 <h6 tabindex="-1" dir="auto"><a id="user-content-endpoint" class="anchor" aria-hidden="true" href="#extrait"></a>Extrait</h6>
-<p dir="auto"><code>GNU GENERAL PUBLIC LICENSE
+<p dir="auto"><code>GNU GENERAL PUBLIC LICENS
                            Version 3, 29 June 2007
 
- Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ _Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
-  The GNU General Public License is a free, copyleft license for
-software and other kinds of works...
+ of this license document, but changing it is not allowed._
+  _The GNU General Public License is a free, copyleft license for
+software and other kinds of works..._
 </code></p>
 </details>
 ##
 
 
-***Utilise cette MongoDb Key Publique, Si tu n'en a pas.!***
+_Utilise cette MongoDb Key Publique, Si tu n'en a pas.!_
 ```
 mongodb+srv://Suhail_Md:Suhail_Md@cluster1.0tlyzhm.mongodb.net/?retryWrites=true&w=majority
 ```
-Obtiens le Mongodb_URI via [`Site Mongodb`](https://www.mongodb.com/) | Regarde le tutoriel [`Obtenir un Mongodb_URI`](https://youtu.be/6rnftFl0fAI).***
+Obtiens le Mongodb_URI via [`Site Mongodb`](https://www.mongodb.com/) | Regarde le tutoriel [`Obtenir un Mongodb_URI`](https://youtu.be/6rnftFl0fAI).
 
 
 #### ```VUES DU PROFIL 🗨️```
@@ -120,5 +123,5 @@ Obtiens le Mongodb_URI via [`Site Mongodb`](https://www.mongodb.com/) | Regarde 
 - [**Keen~v**](https://github.com/Kevinofc)
 - [**Vatante**](https://github.com/Vatante24)
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Faire une contribution :</h3>
 <p><a href="https://www.buymeacoffee.com/crazyprince"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="crazyprince" /></a></p><br><br>
