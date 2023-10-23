@@ -1,9 +1,8 @@
 <p align="center"></h1> SERIZAWA-MD </h1><br> <p/>
 
-
-
-
 ![banner](crazyprince.gif)
+</p>
+
 <p align="center"> 
 <u>👑 𝙱𝙾𝚃 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙲𝚁𝙴𝙴 𝙿𝙰𝚁 𝙲𝚁𝙰𝚉𝚈 👑</u>
 </p>
@@ -21,7 +20,7 @@
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=CRAZY+PRINCE+WHATSAPP+BOT" alt="">
 </p>
-    
+
 [![GitHub stars](https://img.shields.io/github/stars/crazy237/Serizawa-Md?color=brightgreen)](https://github.com/crazy237/Serizawa-Md/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/crazy237/Serizawa-Md?color=brightgreen)](https://github.com/crazy237/Serizawa-Md/issues)
 [![GitHub forks](https://img.shields.io/github/forks/crazy237/Serizawa-Md?color=brightgreen)](https://github.com/crazy237/Serizawa-Md/network)
@@ -110,6 +109,11 @@ Obtiens le Mongodb_URI via [`Site Mongodb`](https://www.mongodb.com/) | Regarde 
 
 #### ```VUES DU PROFIL 🗨️```
 ![Visitor Count](https://profile-counter.glitch.me/crazy237/count.svg)
+
+<p align="center"> 
+  <a aria-label="Support Group" href="[https://chat.whatsapp.com/B9nJSr7omFPKhXoPfzgQoq](https://chat.whatsapp.com/LmbPuR6u0P98vcXL5bfeSQ)" target="_blank">
+   <img alt="whatsapp" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<p/>
 
 #### Développeurs :
 - [**CRAZY_237 👑**](https://github.com/CrazyPrince)
