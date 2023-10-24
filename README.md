@@ -3,7 +3,7 @@
 ![banner](crazyprince.gif)
 </p>
 <p align="center">
-  <img temp="suhail.jpg" alt="banner">
+  <img src="suhail.jpg" alt="banner">
 </p>
 
 <p align="center"> 
