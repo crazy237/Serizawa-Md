@@ -1,6 +1,6 @@
 # -  /Crazy237/
 
-FROM quay.io/Crazy237/Serizawa-Md
+FROM quay.io/crazy237/serizawa-md
 RUN git clone https://github.com/Crazy237/Serizawa-Md /root/Serizawa
 WORKDIR /root/Serizawa/
 RUN npm install
