@@ -1,14 +1,6 @@
 # -  /Crazy237/
 
 FROM node:lts-buster
-
-RUN apt-get update && \
-  apt-get install -y \
-  ffmpeg \
-  imagemagick \
-  webp && \
-  apt-get upgrade -y && \
-  npm i pm2 -g && \
   
 RUN git clone https://github.com/crazy237/Serizawa-Md /root/Serizawa-Md
 WORKDIR /root/Serizawa-Md/
