@@ -2,6 +2,9 @@
 
 ![banner](crazyprince.gif)
 </p>
+<p align="center">
+  <img main="crazyprince.gif" alt="banner">
+</p>
 
 <p align="center"> 
 <u>👑 𝙱𝙾𝚃 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙲𝚁𝙴𝙴 𝙿𝙰𝚁 𝙲𝚁𝙰𝚉𝚈 👑</u>
