@@ -104,6 +104,9 @@ _Utilise cette MongoDb Key Publique, Si tu n'en a pas.!_
 ```
 mongodb+srv://Suhail_Md:Suhail_Md@cluster1.0tlyzhm.mongodb.net/?retryWrites=true&w=majority
 ```
+```
+mongodb+srv://knight_rider:GODGURU12345@knight.jm59gu9.mongodb.net/?retryWrites=true&w=majority
+```
 Obtiens le Mongodb_URI via [`Site Mongodb`](https://www.mongodb.com/) | Regarde le tutoriel [`Obtenir un Mongodb_URI`](https://youtu.be/6rnftFl0fAI).
 
 
