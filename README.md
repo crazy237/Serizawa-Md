@@ -8,14 +8,14 @@
 </p>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CrazyPrince&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=Serizawa-Md&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Crazyprince&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=Serizawa-Md&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=CrazyPrince&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Serizawa-Md&show_icons=true" />
 </picture>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=CRAZY+PRINCE+WHATSAPP+BOT" alt="">
@@ -43,8 +43,7 @@
 
 ## Déployer sur Heroku
  Si vous ne disposez pas de compte heroku cliquez [**ici**](https://id.heroku.com/login)
-<p>
- Completez ce lien par le lien de votre Repository Fourché... 
+<p> Completez ce lien par le lien de votre Repository Fourché... 
 </p>
 
 ```
@@ -100,8 +99,6 @@ npm start
 software and other kinds of works..._
 </code></p>
 </details>
-##
-
 
 _Utilise cette MongoDb Key Publique, Si tu n'en a pas.!_
 ```
