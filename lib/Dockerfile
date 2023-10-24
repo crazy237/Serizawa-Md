@@ -6,6 +6,7 @@ WORKDIR /root/Serizawa-Md/
 COPY package.json
 RUN npm install npm@latest
 RUN npm install
+COPY . .
 EXPOSE 8000
 CMD ["npm","start","yarn" ]
   
